@@ -1,0 +1,18 @@
+{
+  "name": "cinebot",
+  "version": "1.0.0",
+  "description": "a movie bot for my discord server",
+  "main": "botfiles/core/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DorrajMachai",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.4.0",
+    "axios": "^1.2.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0"
+  },
+  "type": "module"
+}
